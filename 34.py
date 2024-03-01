@@ -14,8 +14,7 @@ for letter in sys.argv[1]:
         if (ord(encrypt[1]) + ord(encrypt[0]) - 96 > 0):
             (lambda: print(chr(ord(encrypt[1]) + (ord(encrypt[0])-96)), end=""))()
         else:
-            (lambda: print(chr(ord(encrypt[1]) + (ord(encrypt[0])))))()
-        (lambda: print(chr(ord(encrypt[1]) + (ord(encrypt[0])-96)), end=""))()
+            (lambda: print(chr(ord(encrypt[1]) + (ord(encrypt[0]))), end=""))()
         encrypt = []
         tagged = ""
     elif(len(tagged) == 1):
