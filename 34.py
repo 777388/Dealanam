@@ -1,4 +1,5 @@
 import sys
+__annotations__.__class_getitem__.__dir__.__text_signature__.__getnewargs__.__getattribute__.__subclasshook__
 i = 0
 tagged = ""
 encrypt = []
