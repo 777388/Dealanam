@@ -10,6 +10,10 @@ for letter in sys.argv[1]:
     if (len(tagged) == 2):
         for letters in tagged:
             encrypt.append(letters)
+        if (ord(encrypt[1]) + ord(encrypt[0]) - 96 > 0):
+            (lambda: print(chr(ord(encrypt[1]) + (ord(encrypt[0])-96)), end=""))()
+        else:
+            (lambda: print(chr(ord(encrypt[1]) + (ord(encrypt[0])))))()
         (lambda: print(chr(ord(encrypt[1]) + (ord(encrypt[0])-96)), end=""))()
         encrypt = []
         tagged = ""
