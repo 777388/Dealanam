@@ -22,4 +22,5 @@ for letter in sys.argv[1]:
     elif(len(tagged) == 0):
         print(letter, end="")
     i+=1
-    
+import trace
+trace.Trace(count=1)
