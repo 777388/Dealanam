@@ -11,3 +11,6 @@ Encryption, first 2 letters unencrypted, usage: python3 34.py string
 I broke my toe drawing this dragon
 
 ![great-weather-huh](https://github.com/777388/Dealanam/assets/96343159/c5305ca1-3d07-4a4b-90aa-b630fccabd8a)
+
+
+Oh right, that Celtic demigod that would drink sleeping medicine and "kill everyone, even his own side" leaving the battlefield unscathed.
