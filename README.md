@@ -14,3 +14,8 @@ I broke my toe drawing this dragon
 
 
 Oh right, that Celtic demigod that would drink sleeping medicine and "kill everyone, even his own side" leaving the battlefield unscathed.
+![DSC_4580](https://github.com/777388/Dealanam/assets/96343159/959d47ba-337a-4600-844f-fbb6689a274b)
+
+Calm down dragon
+
+![DSC_4576](https://github.com/777388/Dealanam/assets/96343159/dd537e6f-3405-4828-aa75-5e44ed973fd1)
